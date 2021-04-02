@@ -5,7 +5,7 @@ function About() {
     return (
         <div>
             <div class="container">
-                <div class="card px-3 py-3 mx-2 my-5 shadow p-3 mb-5 bg-white rounded">
+                <div class="card-about px-3 py-3 mx-2 my-5 shadow p-3 mb-5 bg-white rounded">
                     <div class="card-body my-5">
                         <div class="aboutme container">
 

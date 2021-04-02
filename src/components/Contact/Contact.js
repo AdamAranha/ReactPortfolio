@@ -4,7 +4,7 @@ function Contact() {
     return (
         <section>
             <div class="container">
-                <div class="card px-1 py-1 mx-2 my-5 shadow p-3 mb-5 bg-white rounded">
+                <div class="card-title px-1 py-1 mx-2 my-5 shadow p-3 mb-5 bg-white rounded">
                     <div class="card-body">
                         <div class="aboutme container">
                             <h3>Let's keep in touch</h3>
@@ -38,7 +38,7 @@ function Contact() {
             </div>
 
             <div class="container form">
-                <div class="card px-5 py-5 mx-2 my-5 shadow p-3 mb-5 bg-white rounded">
+                <div class="card-title px-5 py-5 mx-2 my-5 shadow p-3 mb-5 bg-white rounded">
                     <div class="card-body my-2">
                         <div class="container">
                             <div class="mb-3">
